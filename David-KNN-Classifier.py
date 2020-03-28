@@ -1,3 +1,5 @@
+#This is a Kaggle notebook. If you want to actually use it, go here: https://www.kaggle.com/davidugoomenukwa/titanic-nearest-neighbor
+
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 import math as m
